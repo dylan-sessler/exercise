@@ -19,7 +19,7 @@ the following scheduling:
 Minor deviations from the schedule are permitted like if you don't get to your push
 ups on Friday, it's fine to do them on Saturday or Sunday. However, you should
 not make major modifications to this schedule like compressing all the exercises
-into 1 week or changing the order of the progressions.[[*Program Optimizations][See Program Optimizations]] 
+into 1 week or changing the order of the progressions. (See Program Optimizations)
 ** The Progressions
 A progression is a series of exercises designed to gradually build the strength
 and stabilization necessary to perform a /Peak Exercise/. An example of this
