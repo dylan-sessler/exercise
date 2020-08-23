@@ -1,0 +1,152 @@
+* Body-Weight Fitness
+This is a workout program that is designed to be enjoyable, effective, and safe
+for people of all fitness levels. We will not be pushing the limits of human
+performance here, but rather attempting to maximize the benefits of exercise for
+human performance in the rest of our lives. 
+* Instructions
+** The Schedule
+This workout program is a 2 week loop (repeats every two weeks) and operates on
+the following scheduling:
+| Progression       | Week # | Day of Week | # of Sets |
+|-------------------+--------+-------------+-----------|
+| Pull-Ups          |      1 | Monday      |         5 |
+| Squats            |      1 | Tuesday     |         5 |
+| Handstand Push-Up |      1 | Wednesday   |         5 |
+| Leg Raise         |      1 | Friday      |         5 |
+| Dips              |      2 | Monday      |         5 |
+| Horizontal Pulls  |      2 | Wednesday   |         5 |
+| Push Ups          |      2 | Friday      |         5 |
+Minor deviations from the schedule are permitted like if you don't get to your push
+ups on Friday, it's fine to do them on Saturday or Sunday. However, you should
+not make major modifications to this schedule like compressing all the exercises
+into 1 week or changing the order of the progressions.[[*Program Optimizations][See Program Optimizations]] 
+** The Progressions
+A progression is a series of exercises designed to gradually build the strength
+and stabilization necessary to perform a /Peak Exercise/. An example of this
+would be the progression towards the /One-Arm Push-Up/. You start out by doing
+wall push-ups, and then knee push-ups, then standard push-ups, etc, until after
+X amount of time you can now reasonably do some /One-Arm Push-Ups/. This works,
+because the exercises in the progression are designed to keep slightly being
+more and more difficult, so by the time you get to your /Peak Exercise/ it's
+just a small step harder than what you were doing last week.
+
+Operating the Workout Program consists of first finding where your current level
+of fitness is on the progression and then progressing from there.
+
+For this exercise program, any well-reviewed progression queue will do. For us,
+we will be using the [[https://drive.google.com/file/d/0B2oknZg-EI8xZFVkemhWMWlkVDg/edit][startbodyweight.com progressions]], which hits all the major
+movement planes and is reasonably well designed.
+** Leveling Up
+When you are able to do 5 sets of 8 reps of an exercise with good form, you
+should progress to the next exercise. When you do so, you should start out
+trying for 5 sets of 4 reps.
+
+Every time you hit your goal for a session, eg) 5 sets of 4 reps, the next
+session you should increase your rep count by 1 eg) 5 sets of 5 reps. Then, when
+you complete 5 sets of 8 reps you progress to the next exercise.
+
+In general, you should be hitting your session goal most sessions as long as
+you're following the cadence prescribed above. Every once in awhile you won't
+hit your goal, and that's fine. Your body just needs some extra time to build up
+the endurance or learn a new movement. 
+
+There are some parts of the progressions that are really tough to transition
+from one exercise to the next, and you may need to get creative and come up with
+some intermediate exercises. I had to do this in the Horizontal Pulls
+progression as I found the jumps between exercises to be too difficult for me to
+do. Fortunately, there is a lot of good material online to help with
+this. Listen to your body!
+
+Sometimes, the next exercise will feel really easy, and you may be able to speed
+through the rep increases. This is fine to do, just be careful that you're not
+moving too fast! This will increase your likelihood of injury.
+
+** Starting Out: Determining your Current level  
+At the start of the program, you will spend a few sessions determining where the
+right level is for yourself in each of the progressions. In general you should
+start out by attempting a set of 4 reps with an exercise, and if it feels really
+easy, try to do 8 reps next set. If that still feels easy, try out the next
+exercise.
+
+There's no rush to find your current level, take your time and eventually you'll
+find that sweet spot where every week's goal is hard and engaging but also safe!
+
+** Tracking Your Results
+I consider tracking your results for this program to be imperative. To maximize
+your benefit, you really want to be just pushing a little bit harder each
+session. This can easily be tracked online in a spreadsheet or in a
+notebook. Here's an example table I use to track my progress. 
+
+| Progression       | Day of Week | Current Exercise                       |  Reps |
+|-------------------+-------------+----------------------------------------+-------|
+| Pull-Ups          | Monday      | Wide Grip                              |     6 |
+| Squats            | Tuesday     | 1-Leg (downhill)                       |     6 |
+| Handstand Push-Up | Wednesday   | Decline Pike Diamond                   |     6 |
+| Leg Raise         | Friday      | Windshield Wipers                      |     4 |
+| Dips              | Monday      | Modified Russian Dips                  |     4 |
+| Horizontal Pulls  | Wednesday   | 90 degree tuck hold with straight back | 10sec |
+| Push Ups          | Friday      | Incline One-Arm Push-Up                |     7 |
+
+** Warm-Ups
+Make sure to spend at least 10 minutes pre-workout doing moderate intensity
+aerobic activity like jogging. You're going to be asking your body to do some
+pretty hard things during the workout and you want to make sure that your
+muscles and heart are primed for action! 
+
+By raising you heart-rate pre-workout, you actually increase the velocity of
+energy replacement that occurs in between sets. In addition to reducing the
+likelihood of injury. 
+** Off-Days
+What to do when nothings scheduled? That's completely up to you! I would
+recommend getting in some light cardio sessions because that's really good for
+your brain and something that this program doesn't cover. Be sure to rest up
+your muscles though!
+* Program Optimizations
+** Optimized for Value:Cost, Not Muscle Gains as Fast as Possible 
+When you exercise, you are tearing your muscles in order to stimulate the body
+to strengthen your muscles perpendicular to the orientation in which they
+tore. After tearing your muscles, it takes your body ~12 days in order to
+finish the repair job. If you work out the same movement before that ~12 day
+window is complete then you will starting the process over again before you
+finished receiving all the benefits from the previous workout.
+
+This is why we only work each exercise once every two weeks. You'll be surprised
+at how rapidly you improve, and the reason why it works so well is because we're
+allowing our bodies the proper time to heal in between sessions of similar
+directional stress. 
+
+If you were trying to enter a body-building competition you would work each
+motion more frequently than this as you receive most of the benefits of the
+repair process in the first ~5 days. However, the goal of this program isn't to
+go fast, but rather to be safe and get maximum value for the time you put in.
+** Hitting Every Major Motion Plane
+When you exercise, you are tearing your muscles in order to stimulate the body
+to strengthen your muscles *perpendicular to the orientation in which they tore*. 
+
+This means that to be balanced in your fitness, you need to be working out your
+muscles using directionalities of stress. This program is build on hitting the
+following:
+| Progression       | Push vs Pull | Stress Direction |
+|-------------------+--------------+------------------|
+| Pull-Ups          | Pull         | Down             |
+| Squats            | Push (legs)  | Down             |
+| Handstand Push-Up | Push         | Up               |
+| Leg Raise         | Pull         | Up               |
+| Dips              | Push         | Down             |
+| Horizontal Pulls  | Pull         | Horizontal       |
+| Push Ups          | Push         | Horizontal       |
+
+You'll see that we alternate Pulls and Pushes (which use very different muscle
+groups) and hit each of the three major stress directions for pushes and
+pulls. This provides us a balanced overall stress load and allows us to work out
+more frequently because we are apply stress in different directions.
+** Consistent Progression and Novelty
+It feels good to make progress and try new things and feeling good increases the
+likelihood that we're going to stick with something over the long term. The
+continual /level-ups/ that you get to achieve in this program ensure that it
+stays interesting for months-years from first starting!
+** Tendency Towards Safety 
+If something feels unsafe, don't do it. We want to be making steady progress,
+not injuring ourselves along the way. Fitness is something that can only be
+gained incrementally. Don't rush it, and you'll be doing /one-armed push-ups/
+before you know it!
